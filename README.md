@@ -46,7 +46,9 @@ Prefer a written guide? No problem! We also have a comprehensive PDF writeup ava
 ## License:
 
 Fashionable is licensed under the MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) .
+This CTF has been developed by Team [![https://github.com/cyber-evangelists](**Cyber Evangelists**)
 
 ---
 
 Get ready to elevate your cybersecurity skills with Fashionable! Happy hacking! 🎩💻✨
+
