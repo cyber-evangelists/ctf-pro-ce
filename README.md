@@ -40,7 +40,7 @@ You can watch video [here](https://drive.google.com/file/d/1hPZFEzgpkM2JobWMlL7F
 
 ## PDF Writeup:
 
-Prefer a written guide? No problem! We also have a comprehensive PDF writeup available for download. You can access the PDF [here](https://github.com/cyber-evangelists/apanel-conf/blob/main/pdf/Fashionable_2.pdf).
+Prefer a written guide? No problem! We also have a comprehensive PDF writeup available for download. You can access the PDF [here](https://github.com/cyber-evangelists/ctf-pro-ce/blob/main/pdf/Fashionable_2.pdf).
 
 
 ## License:
