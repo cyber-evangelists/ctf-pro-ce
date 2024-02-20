@@ -56,7 +56,7 @@ def execute_query(query, params=None):
         return e
     
 if __name__ == '__main__':
-    response = check_user('carlossol', hash_password('admin@123'))
+    response = check_user('carlossol', hash_password('DemoPassword_add_here'))
     print(response)
     
     query = "select username from users --;select password from users;"
